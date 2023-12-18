@@ -16,3 +16,4 @@ print(newf['Имя'])
 minball = dframe['Средний'].min()
 newf1 = dframe[dframe['Средний']==minball]
 print(newf1['Имя'])
+
